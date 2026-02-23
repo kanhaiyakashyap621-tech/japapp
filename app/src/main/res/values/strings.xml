@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shant Jap</string>
+    <string name="radha_naam">Radha Naam</string>
+    <string name="ram_naam">Ram Naam</string>
+    <string name="silent_mode">Silent Jap</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="journey">108 Day Journey</string>
+    <string name="sankalp">Personal Sankalp</string>
+    <string name="share_quote">Share Quote</string>
+    <string name="today_count">Today</string>
+    <string name="lifetime_count">Lifetime</string>
+    <string name="streak_count">Streak</string>
+</resources>
